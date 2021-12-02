@@ -1,0 +1,10 @@
+[{"pic": "pics/dbook.jpg", "name": "Devin Booker", "male": true, "major": "Basketball"}, \n\
+  {"pic": "pics/bhami.jpg", "name": "Bethany Hamilton", "male": false, "major": "Surfing"}, \n\
+  {"pic": "pics/dtaur.jpg", "name": "Diana Taurasi", "male": false, "major": "Basketball"}, \n\
+  {"pic": "pics/hsolo.jpg", "name": "Hope Solo", "male": false, "major": "Soccer"}, \n\
+  {"pic": "pics/lball.jpg", "name": "Lamelo Ball", "male": true, "major": "Basketball"}, \n\
+  {"pic": "pics/lbird.jpg", "name": "Larry Bird", "male": true, "major": "Basketball"}, \n\
+  {"pic": "pics/oscum.jpg", "name": "Optic Scump", "male": true, "major": "Gaming"}, \n\
+  {"pic": "pics/ralle.jpg", "name": "Ray Allen", "male": true, "major": "Basketball"}, \n\
+  {"pic": "pics/scurr.jpg", "name": "Stephen Curry", "male": true, "major": "Basketball"}, \n\
+  {"pic": "pics/wrena.jpg", "name": "Wendie Renard", "male": false, "major": "Soccer"}]';

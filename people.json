@@ -7,4 +7,4 @@
   {"pic": "pics/oscum.jpg", "name": "Optic Scump", "male": true, "major": "Gaming"}, 
   {"pic": "pics/ralle.jpg", "name": "Ray Allen", "male": true, "major": "Basketball"}, 
   {"pic": "pics/scurr.jpg", "name": "Stephen Curry", "male": true, "major": "Basketball"}, 
-  {"pic": "pics/wrena.jpg", "name": "Wendie Renard", "male": false, "major": "Soccer"}]';
+  {"pic": "pics/wrena.jpg", "name": "Wendie Renard", "male": false, "major": "Soccer"}];
